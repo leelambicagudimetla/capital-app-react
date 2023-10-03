@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.main-div {
+  background-color: #93c5fd;
+  padding: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.sec-div {
+  background-color: #f8fafc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.heading {
+  text-align: center;
+}
+.common {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
